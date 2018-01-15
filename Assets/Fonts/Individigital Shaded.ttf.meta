@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fa7f369e5d9634b91a38bc0c764bd51f
+timeCreated: 1481813913
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Individigital Shaded
+  fontNames:
+  - Individigital Shaded
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

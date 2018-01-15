@@ -1,0 +1,2550 @@
+fileFormatVersion: 2
+guid: d45019b63119d4bc1874fe512bcc13ed
+timeCreated: 1481734825
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atlas_naves_colorinchis_2_0
+    21300002: atlas_naves_colorinchis_2_1
+    21300004: atlas_naves_colorinchis_2_2
+    21300006: atlas_naves_colorinchis_2_3
+    21300008: atlas_naves_colorinchis_2_4
+    21300010: atlas_naves_colorinchis_2_5
+    21300012: atlas_naves_colorinchis_2_6
+    21300014: atlas_naves_colorinchis_2_7
+    21300016: atlas_naves_colorinchis_2_8
+    21300018: atlas_naves_colorinchis_2_9
+    21300020: atlas_naves_colorinchis_2_10
+    21300022: atlas_naves_colorinchis_2_11
+    21300024: atlas_naves_colorinchis_2_12
+    21300026: atlas_naves_colorinchis_2_13
+    21300028: atlas_naves_colorinchis_2_14
+    21300030: atlas_naves_colorinchis_2_15
+    21300032: atlas_naves_colorinchis_2_16
+    21300034: atlas_naves_colorinchis_2_17
+    21300036: atlas_naves_colorinchis_2_18
+    21300038: atlas_naves_colorinchis_2_19
+    21300040: atlas_naves_colorinchis_2_20
+    21300042: atlas_naves_colorinchis_2_21
+    21300044: atlas_naves_colorinchis_2_22
+    21300046: atlas_naves_colorinchis_2_23
+    21300048: atlas_naves_colorinchis_2_24
+    21300050: atlas_naves_colorinchis_2_25
+    21300052: atlas_naves_colorinchis_2_26
+    21300054: atlas_naves_colorinchis_2_27
+    21300056: atlas_naves_colorinchis_2_28
+    21300058: atlas_naves_colorinchis_2_29
+    21300060: atlas_naves_colorinchis_2_30
+    21300062: atlas_naves_colorinchis_2_31
+    21300064: atlas_naves_colorinchis_2_32
+    21300066: atlas_naves_colorinchis_2_33
+    21300068: atlas_naves_colorinchis_2_34
+    21300070: atlas_naves_colorinchis_2_35
+    21300072: atlas_naves_colorinchis_2_36
+    21300074: atlas_naves_colorinchis_2_37
+    21300076: atlas_naves_colorinchis_2_38
+    21300078: atlas_naves_colorinchis_2_39
+    21300080: atlas_naves_colorinchis_2_40
+    21300082: atlas_naves_colorinchis_2_41
+    21300084: atlas_naves_colorinchis_2_42
+    21300086: atlas_naves_colorinchis_2_43
+    21300088: atlas_naves_colorinchis_2_44
+    21300090: atlas_naves_colorinchis_2_45
+    21300092: atlas_naves_colorinchis_2_46
+    21300094: atlas_naves_colorinchis_2_47
+    21300096: atlas_naves_colorinchis_2_48
+    21300098: atlas_naves_colorinchis_2_49
+    21300100: atlas_naves_colorinchis_2_50
+    21300102: atlas_naves_colorinchis_2_51
+    21300104: atlas_naves_colorinchis_2_52
+    21300106: atlas_naves_colorinchis_2_53
+    21300108: atlas_naves_colorinchis_2_54
+    21300110: atlas_naves_colorinchis_2_55
+    21300112: atlas_naves_colorinchis_2_56
+    21300114: atlas_naves_colorinchis_2_57
+    21300116: atlas_naves_colorinchis_2_58
+    21300118: atlas_naves_colorinchis_2_59
+    21300120: atlas_naves_colorinchis_2_60
+    21300122: atlas_naves_colorinchis_2_61
+    21300124: atlas_naves_colorinchis_2_62
+    21300126: atlas_naves_colorinchis_2_63
+    21300128: atlas_naves_colorinchis_2_64
+    21300130: atlas_naves_colorinchis_2_65
+    21300132: atlas_naves_colorinchis_2_66
+    21300134: atlas_naves_colorinchis_2_67
+    21300136: atlas_naves_colorinchis_2_68
+    21300138: atlas_naves_colorinchis_2_69
+    21300140: atlas_naves_colorinchis_2_70
+    21300142: atlas_naves_colorinchis_2_71
+    21300144: atlas_naves_colorinchis_2_72
+    21300146: atlas_naves_colorinchis_2_73
+    21300148: atlas_naves_colorinchis_2_74
+    21300150: atlas_naves_colorinchis_2_75
+    21300152: atlas_naves_colorinchis_2_76
+    21300154: atlas_naves_colorinchis_2_77
+    21300156: atlas_naves_colorinchis_2_78
+    21300158: atlas_naves_colorinchis_2_79
+    21300160: atlas_naves_colorinchis_2_80
+    21300162: atlas_naves_colorinchis_2_81
+    21300164: atlas_naves_colorinchis_2_82
+    21300166: atlas_naves_colorinchis_2_83
+    21300168: atlas_naves_colorinchis_2_84
+    21300170: atlas_naves_colorinchis_2_85
+    21300172: atlas_naves_colorinchis_2_86
+    21300174: atlas_naves_colorinchis_2_87
+    21300176: atlas_naves_colorinchis_2_88
+    21300178: atlas_naves_colorinchis_2_89
+    21300180: atlas_naves_colorinchis_2_90
+    21300182: atlas_naves_colorinchis_2_91
+    21300184: atlas_naves_colorinchis_2_92
+    21300186: atlas_naves_colorinchis_2_93
+    21300188: atlas_naves_colorinchis_2_94
+    21300190: atlas_naves_colorinchis_2_95
+    21300192: atlas_naves_colorinchis_2_96
+    21300194: atlas_naves_colorinchis_2_97
+    21300196: atlas_naves_colorinchis_2_98
+    21300198: atlas_naves_colorinchis_2_99
+    21300200: atlas_naves_colorinchis_2_100
+    21300202: atlas_naves_colorinchis_2_101
+    21300204: atlas_naves_colorinchis_2_102
+    21300206: atlas_naves_colorinchis_2_103
+    21300208: atlas_naves_colorinchis_2_104
+    21300210: atlas_naves_colorinchis_2_105
+    21300212: atlas_naves_colorinchis_2_106
+    21300214: atlas_naves_colorinchis_2_107
+    21300216: atlas_naves_colorinchis_2_108
+    21300218: atlas_naves_colorinchis_2_109
+    21300220: atlas_naves_colorinchis_2_110
+    21300222: atlas_naves_colorinchis_2_111
+    21300224: atlas_naves_colorinchis_2_112
+    21300226: atlas_naves_colorinchis_2_113
+    21300228: atlas_naves_colorinchis_2_114
+    21300230: atlas_naves_colorinchis_2_115
+    21300232: atlas_naves_colorinchis_2_116
+    21300234: atlas_naves_colorinchis_2_117
+    21300236: atlas_naves_colorinchis_2_118
+    21300238: atlas_naves_colorinchis_2_119
+    21300240: atlas_naves_colorinchis_2_120
+    21300242: atlas_naves_colorinchis_2_121
+    21300244: atlas_naves_colorinchis_2_122
+    21300246: atlas_naves_colorinchis_2_123
+    21300248: atlas_naves_colorinchis_2_124
+    21300250: atlas_naves_colorinchis_2_125
+    21300252: atlas_naves_colorinchis_2_126
+    21300254: atlas_naves_colorinchis_2_127
+    21300256: atlas_naves_colorinchis_2_128
+    21300258: atlas_naves_colorinchis_2_129
+    21300260: atlas_naves_colorinchis_2_130
+    21300262: atlas_naves_colorinchis_2_131
+    21300264: atlas_naves_colorinchis_2_132
+    21300266: atlas_naves_colorinchis_2_133
+    21300268: atlas_naves_colorinchis_2_134
+    21300270: atlas_naves_colorinchis_2_135
+    21300272: atlas_naves_colorinchis_2_136
+    21300274: atlas_naves_colorinchis_2_137
+    21300276: atlas_naves_colorinchis_2_138
+    21300278: atlas_naves_colorinchis_2_139
+    21300280: atlas_naves_colorinchis_2_140
+    21300282: atlas_naves_colorinchis_2_141
+    21300284: atlas_naves_colorinchis_2_142
+    21300286: atlas_naves_colorinchis_2_143
+    21300288: atlas_naves_colorinchis_2_144
+    21300290: atlas_naves_colorinchis_2_145
+    21300292: atlas_naves_colorinchis_2_146
+    21300294: atlas_naves_colorinchis_2_147
+    21300296: atlas_naves_colorinchis_2_148
+    21300298: atlas_naves_colorinchis_2_149
+    21300300: atlas_naves_colorinchis_2_150
+    21300302: atlas_naves_colorinchis_2_151
+    21300304: atlas_naves_colorinchis_2_152
+    21300306: atlas_naves_colorinchis_2_153
+    21300308: atlas_naves_colorinchis_2_154
+    21300310: atlas_naves_colorinchis_2_155
+    21300312: atlas_naves_colorinchis_2_156
+    21300314: atlas_naves_colorinchis_2_157
+    21300316: atlas_naves_colorinchis_2_158
+    21300318: atlas_naves_colorinchis_2_159
+    21300320: atlas_naves_colorinchis_2_160
+    21300322: atlas_naves_colorinchis_2_161
+    21300324: atlas_naves_colorinchis_2_162
+    21300326: atlas_naves_colorinchis_2_163
+    21300328: atlas_naves_colorinchis_2_164
+    21300330: atlas_naves_colorinchis_2_165
+    21300332: atlas_naves_colorinchis_2_166
+    21300334: atlas_naves_colorinchis_2_167
+    21300336: atlas_naves_colorinchis_2_168
+    21300338: atlas_naves_colorinchis_2_169
+    21300340: atlas_naves_colorinchis_2_170
+    21300342: atlas_naves_colorinchis_2_171
+    21300344: atlas_naves_colorinchis_2_172
+    21300346: atlas_naves_colorinchis_2_173
+    21300348: atlas_naves_colorinchis_2_174
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 290
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3803.4285
+        width: 292.57144
+        height: 292.57153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3803.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3803.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_3
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 3803.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_4
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 3803.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_5
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 3803.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_6
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 3803.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_7
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 3803.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_8
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 3803.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_9
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 3803.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_10
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 3803.4285
+        width: 292.57153
+        height: 292.57153
+      alignment: 0
+      pivot: {x: 0.49999958, y: 0.5000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_11
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 3803.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_12
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 3803.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_13
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 3803.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3511.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_15
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3511.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_16
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3511.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_17
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 3511.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_18
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 3511.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_19
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 3511.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_20
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 3511.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_21
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 3511.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_22
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 3511.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_23
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 3511.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_24
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 3513
+        width: 293
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_25
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 3511.4285
+        width: 292.57153
+        height: 292.57153
+      alignment: 0
+      pivot: {x: 0.49999958, y: 0.5000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_26
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 3511.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_27
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 3511.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3219.4285
+        width: 292.57144
+        height: 292.57153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3219.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_30
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3219.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_31
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 3219.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_32
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 3219.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_33
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 3219.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_34
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 3219.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_35
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 3219.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_36
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 3219.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_37
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 3219.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_38
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 3219.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_39
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 3219.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_40
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 3219.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_41
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 3219.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2927.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_43
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2927.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_44
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2927.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_45
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2927.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_46
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 2927.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_47
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2927.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_48
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 2927.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_49
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 2927.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_50
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 2927.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_51
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 2927.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_52
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 2927.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_53
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 2927.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_54
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 2927.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_55
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 2927.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2635.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_57
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2635.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_58
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2635.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_59
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2635.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_60
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 2635.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_61
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2635.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_62
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 2635.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_63
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 2635.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_64
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 2635.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_65
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 2635.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_66
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 2635.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_67
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 2635.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_68
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 2635.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_69
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 2635.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2343.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_71
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2343.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_72
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2343.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_73
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2343.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_74
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 2343.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_75
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2343.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_76
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 2343.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_77
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 2343.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_78
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 2343.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_79
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 2343.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_80
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 2343.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_81
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 2343.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_82
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 2343.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_83
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 2343.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2051.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_85
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2051.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_86
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2051.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_87
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2051.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_88
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 2051.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_89
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 2051.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_90
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 2051.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_91
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 2051.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_92
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 2051.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_93
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 2051.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_94
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 2051.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_95
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 2051.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_96
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 2051.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_97
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 2051.4285
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1759.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_99
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1759.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_100
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1759.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_101
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1759.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_102
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1759.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_103
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1759.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_104
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1759.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_105
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1759.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_106
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 1759.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_107
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 1759.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_108
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1759.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_109
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 1759.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_110
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 1759.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_111
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 1759.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1467.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_113
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1467.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_114
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1467.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_115
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1467.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_116
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1467.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_117
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1467.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_118
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1467.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_119
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1467.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_120
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 1467.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_121
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 1467.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_122
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1467.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_123
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 1467.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_124
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 1467.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_125
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 1467.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1175.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_127
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1175.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_128
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1175.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_129
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1175.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_130
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1175.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_131
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1175.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_132
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1175.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_133
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1175.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_134
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 1175.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_135
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 1175.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_136
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1175.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_137
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 1175.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_138
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 1175.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_139
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 1175.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 883.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_141
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 883.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_142
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 883.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_143
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 883.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_144
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 883.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_145
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 883.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_146
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 883.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_147
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 883.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_148
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 883.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_149
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 883.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_150
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 883.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_151
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 883.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_152
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 883.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_153
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 883.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_155
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 591.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_156
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 591.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_157
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 591.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_158
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 591.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_159
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 591.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_160
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 591.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_161
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 591.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_162
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 591.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_163
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 591.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_164
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 591.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_165
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 591.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_166
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 591.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_167
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 591.4286
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299.42856
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_169
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 299.42856
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_170
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 299.42856
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_171
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 299.42856
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_172
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 299.42856
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_173
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 299.42856
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: atlas_naves_colorinchis_2_174
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7.4285583
+        width: 292.57144
+        height: 292.57144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

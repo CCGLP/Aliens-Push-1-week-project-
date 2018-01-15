@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: f22fa0d6c874d4de2bc9dc11c43900c9
+timeCreated: 1481805087
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: skeleton-round3_0
+    21300002: skeleton-round3_1
+    21300004: skeleton-round3_2
+    21300006: skeleton-round3_3
+    21300008: skeleton-round3_4
+    21300010: skeleton-round3_5
+    21300012: skeleton-round3_6
+    21300014: skeleton-round3_7
+    21300016: skeleton-round3_8
+    21300018: skeleton-round3_9
+    21300020: skeleton-round3_10
+    21300022: skeleton-round3_11
+    21300024: skeleton-round3_12
+    21300026: skeleton-round3_13
+    21300028: skeleton-round3_14
+    21300030: skeleton-round3_15
+    21300032: skeleton-round3_16
+    21300034: skeleton-round3_17
+    21300036: skeleton-round3_18
+    21300038: skeleton-round3_19
+    21300040: skeleton-round3_20
+    21300042: skeleton-round3_21
+    21300044: skeleton-round3_22
+    21300046: skeleton-round3_23
+    21300048: skeleton-round3_24
+    21300050: skeleton-round3_25
+    21300052: skeleton-round3_26
+    21300054: skeleton-round3_27
+    21300056: skeleton-round3_28
+    21300058: skeleton-round3_29
+    21300060: skeleton-round3_30
+    21300062: skeleton-round3_31
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skeleton-round3_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1613
+        width: 243
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_1
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1607
+        width: 241
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_2
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1612
+        width: 241
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1347
+        width: 242
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1347
+        width: 250
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_5
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1342
+        width: 240
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_6
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1346
+        width: 241
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1077
+        width: 240
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_8
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1081
+        width: 243
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_9
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1080
+        width: 256
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_10
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1080
+        width: 241
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_11
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1080
+        width: 242
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 815
+        width: 258
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_13
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 815
+        width: 240
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_14
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 815
+        width: 243
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_15
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 814
+        width: 255
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_16
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 814
+        width: 240
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 550
+        width: 253
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_18
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 549
+        width: 252
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_19
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 549
+        width: 241
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_20
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 549
+        width: 243
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_21
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 548
+        width: 247
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_22
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 282
+        width: 246
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_23
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 284
+        width: 256
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_24
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 283
+        width: 245
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_25
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 283
+        width: 241
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_26
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 283
+        width: 243
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 16
+        width: 244
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 17
+        width: 249
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_29
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 18
+        width: 259
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_30
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 12
+        width: 241
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: skeleton-round3_31
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 17
+        width: 242
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
